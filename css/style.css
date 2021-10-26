@@ -4,13 +4,13 @@
 }
 body {
 margin: 0;
-background-color: #ffcdcc;
+background-color: #738BF7;
 font-size:24px;
 font-family: PinkChicken, "Comic Sans MS", "Comic Sans", "Chalkboard SE", "Comic Neue", cursive;
 }
 a {
     text-decoration:none;
-    color:#9e7f7e;
+    color:#17508A;
 }
 a:hover {
     color: black;
